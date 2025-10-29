@@ -1,0 +1,3 @@
+/mnt/c/Users/user/interstellar_blackhole/build/CMakeFiles/interstellar_blackhole.dir
+/mnt/c/Users/user/interstellar_blackhole/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/user/interstellar_blackhole/build/CMakeFiles/rebuild_cache.dir
